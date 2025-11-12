@@ -12,7 +12,7 @@
         <p>A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. The game features smooth gameplay, turn indication,
              and a clean UI with a modern gradient background. It’s
               a fun way to practice JavaScript logic, event handling, and DOM manipulation.</p>
-              <video src="https://github.com/Vikash-369/Game-tic-tak-toe/blob/main/Tic-Tac-Toy.mp4" autoplay muted></video>
+              <video src="Tic-Tac-Toy.mp4" autoplay muted></video>
              <h2>Features</h2>
              <ul>
                 <li><b>Two-Player Mode:</b> Play between “X” and “O”.</li>
