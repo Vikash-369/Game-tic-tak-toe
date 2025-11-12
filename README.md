@@ -36,10 +36,6 @@
                 <li>The game announces the winner or draw automatically.</li>
                 <li>Click “Restart Game” to play again.</li>
              </ul>
-             <h3>Author</h2>
-             <h4>Vikash Kumar</h3>
-             <p>Frontend Developer | Focused on JavaScript, UI Design & Web Games</p>
-             <a href="">[Your Portfolio or LinkedIn link]</a>
-    </div>
+           </div>
 </body>
 </html>
